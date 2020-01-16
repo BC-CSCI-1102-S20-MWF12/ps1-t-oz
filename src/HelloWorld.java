@@ -4,7 +4,7 @@
 public class HelloWorld {
 
   public static void main (String[] args) {
-    System.out.println("Do not go gently into that good night");
+    System.out.println("Howdy partner!");
   }
 
 }
